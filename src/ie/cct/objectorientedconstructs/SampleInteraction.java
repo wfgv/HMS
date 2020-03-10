@@ -4,7 +4,7 @@ import ie.cct.objectorientedconstructs.interfaces.HotelInterface;
 import ie.cct.objectorientedconstructs.interfaces.HotelManagementSystemInterface;
 
 //change this to match your project package
-import ie.cct.objectorientedconstructs.s2018447s2018245.HotelManagementSystem;;
+import ie.cct.objectorientedconstructs.s2018447s2018245.HotelManagementSystem;
 
 public class SampleInteraction {
 	
